@@ -1,0 +1,3 @@
+[submodule "ng-jsonresume"]
+	path = ng-jsonresume
+	url = https://github.com/herringway/ng-jsonresume.git
